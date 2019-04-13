@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NavDrawer with NavComponent</string>
+    <string name="shiva_nosrati">Shiva Nosrati</string>
+    <string name="language">Language</string>
+    <string name="persian">persian</string>
+    <string name="english">English</string>
+    <string name="Apply">Apply</string>
+    <string name="select_language">Select Language</string>
+    <string name="default_fragment">Default Fragment</string>
+</resources>

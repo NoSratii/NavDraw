@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NavDrawer with NavComponent</string>
+    <string name="shiva_nosrati">شیوا نصرتی</string>
+    <string name="language">زبان</string>
+    <string name="persian">فارسی</string>
+    <string name="english">انگلیسی</string>
+    <string name="Apply">انتخاب</string>
+    <string name="select_language">انتخاب زبان</string>
+    <string name="default_fragment">صفحه پیش فرض</string>
+</resources>
